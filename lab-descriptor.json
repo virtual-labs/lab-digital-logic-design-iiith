@@ -1,99 +1,100 @@
 {
-    "broadArea": {
+  "broadArea": {
     "name": "Computer Science and Engineering",
     "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
-    },
-    "lab": "Digital Logic Design",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IIITH",
-    "baseUrl": "cse15-iiith.vlabs.ac.in",
-    "introduction": "Welcome to the Digital Logic Design Lab. Here you can make basic combinational and sequential digital circuits of your choice and simulate them.</br></br>Please note:</br>This lab requires few Software Dependencies to run the Simulations</br>i. Adobe Flash Plugin, Java1.7, Java3D 1.5.2 (The Java 3D API enables the creation of three-dimensional graphics applications and Internet-based 3D applets)</br>ii. Browsers Firefox 50 and it's below versions, internet explorer</br> iii. IcedTea Plugin for Linux Operating System </br></br> We recommend the following for the smooth running of these simulations </br>i. Install Adobe Flash Plugin - This will enable you to run the experiments that need Flash support. Please follow the link to install the Flash Plugin</br>22. Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre installed all the software dependencies(Java 1.7, Java3D-1.5.2, IcedTea Plugin and Adobe Flash Plugin). Please follow the link to download, install and use VirtualBox for Virtual Labs.",
-    "experiments": [
+  },
+  "lab": "Digital Logic Design",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "cse15-iiith.vlabs.ac.in",
+  "introduction": "Welcome to the Digital Logic Design Lab. Here you can make basic combinational and sequential digital circuits of your choice and simulate them.</br></br>Please note:</br>This lab requires few Software Dependencies to run the Simulations</br>i. Adobe Flash Plugin, Java1.7, Java3D 1.5.2 (The Java 3D API enables the creation of three-dimensional graphics applications and Internet-based 3D applets)</br>ii. Browsers Firefox 50 and it's below versions, internet explorer</br> iii. IcedTea Plugin for Linux Operating System </br></br> We recommend the following for the smooth running of these simulations </br>i. Install Adobe Flash Plugin - This will enable you to run the experiments that need Flash support. Please follow the link to install the Flash Plugin. LINK - https://docs.google.com/document/d/1H26IVoWcoYz_k2y31VK889xu6R0WsCdaIGM3pJkkkfY </br>22. Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre installed all the software dependencies(Java 1.7, Java3D-1.5.2, IcedTea Plugin and Adobe Flash Plugin). Please follow the link to download, install and use VirtualBox for Virtual Labs. LINK - https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8",
+  "experiments": [
     {
       "name": "Adder Circuit",
       "short-name": "adder-circuit",
       "repo": "https://github.com/virtual-labs/exp-adder-circuit-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Multiplexer",
       "short-name": "multiplexer",
       "repo": "https://github.com/virtual-labs/exp-multiplexer-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Decoder with 7-Segment Display",
       "short-name": "7-segment-display",
       "repo": "https://github.com/virtual-labs/exp-7-segment-display-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "ALU with function",
       "short-name": "alu",
       "repo": "https://github.com/virtual-labs/exp-alu-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
-
     {
       "name": "Comparator",
       "short-name": "comparator",
       "repo": "https://github.com/virtual-labs/exp-comparator-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
-
     {
       "name": "Latch and Flip Flops",
       "short-name": "latch-and-flip-flops",
       "repo": "https://github.com/virtual-labs/exp-latch-and-flip-flops-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
-
     {
       "name": "Registers",
       "short-name": "registers",
       "repo": "https://github.com/virtual-labs/exp-registers-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
-
     {
       "name": "Counters",
       "short-name": "counters",
       "repo": "https://github.com/virtual-labs/exp-counters-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
-
     {
       "name": "Multipliers",
       "short-name": "multipliers",
       "repo": "https://github.com/virtual-labs/exp-multipliers-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
-
     {
       "name": "State Diagrams",
       "short-name": "state-diagrams",
       "repo": "https://github.com/virtual-labs/exp-state-diagrams-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "B. Tech./ B.E in Computer Science, Electronics & Information Technology"
     ],
-    "targetAudience": {
-        "UG": ["B. Tech./ B.E in Computer Science, Electronics & Information Technology"],
-        "PG": ["Postgraduate students and Research scholars"]
-    },
-    "objective": "The digital logic design is a system that uses simple numerical values to produce input and output operations.",
-    "courseAlignment": {
-        "description": "NPTEL courses on Digital Circuits.",
-        "universities": ["Universities with Computer Science, Electronics & Information Technology"]
-    }
+    "PG": ["Postgraduate students and Research scholars"]
+  },
+  "objective": "The digital logic design is a system that uses simple numerical values to produce input and output operations.",
+  "courseAlignment": {
+    "description": "NPTEL courses on Digital Circuits.",
+    "universities": [
+      "Universities with Computer Science, Electronics & Information Technology"
+    ]
+  },
+  "exp_name": "State Diagrams",
+  "exp_short_name": "state-diagrams",
+  "version": "v0.3.0"
 }
