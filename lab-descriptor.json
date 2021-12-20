@@ -14,70 +14,70 @@
       "name": "Adder Circuit",
       "short-name": "adder-circuit",
       "repo": "https://github.com/virtual-labs/exp-adder-circuit-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Multiplexer",
       "short-name": "multiplexer",
       "repo": "https://github.com/virtual-labs/exp-multiplexer-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Decoder with 7-Segment Display",
       "short-name": "7-segment-display",
       "repo": "https://github.com/virtual-labs/exp-7-segment-display-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "ALU with function",
       "short-name": "alu",
       "repo": "https://github.com/virtual-labs/exp-alu-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Comparator",
       "short-name": "comparator",
       "repo": "https://github.com/virtual-labs/exp-comparator-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Latch and Flip Flops",
       "short-name": "latch-and-flip-flops",
       "repo": "https://github.com/virtual-labs/exp-latch-and-flip-flops-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Registers",
       "short-name": "registers",
       "repo": "https://github.com/virtual-labs/exp-registers-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Counters",
       "short-name": "counters",
       "repo": "https://github.com/virtual-labs/exp-counters-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Multipliers",
       "short-name": "multipliers",
       "repo": "https://github.com/virtual-labs/exp-multipliers-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "State Diagrams",
       "short-name": "state-diagrams",
       "repo": "https://github.com/virtual-labs/exp-state-diagrams-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
@@ -96,5 +96,5 @@
   },
   "exp_name": "State Diagrams",
   "exp_short_name": "state-diagrams",
-  "version": "v0.6.0"
+  "version": "v0.7.0"
 }
