@@ -71,7 +71,7 @@
       "name": "Multipliers",
       "short-name": "multipliers",
       "repo": "https://github.com/virtual-labs/exp-multipliers-iiith",
-      "tag": "v2.0.7",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
@@ -97,5 +97,5 @@
   },
   "exp_name": "State Diagrams",
   "exp_short_name": "state-diagrams",
-  "version": "v0.10.0"
+  "version": "v0.11.0"
 }
