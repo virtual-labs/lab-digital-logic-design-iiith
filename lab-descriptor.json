@@ -90,9 +90,9 @@
   },
   "objective": "<ul><li>Designing Core Circuits: Build and analyze arithmetic units, data selectors, and storage elements.</li><li>Mastering Sequential Logic: Implement flip-flops, counters, and finite state machines for dynamic systems.<li><li>Bridging Theory & Practice: Apply digital design principles to real-world problem-solving and system development.</li></ul>",
   "courseAlignment": {
-    "description": "NPTEL courses on Digital Circuits.",
+    "description": "Digital Logic Design is a professional core course in Electronics and Communication Engineering",
     "universities": [
-      "Universities with Computer Science, Electronics & Information Technology"
+      "(PCC-EC03 and PCC-EC04) recommended in the AICTE model curriculum."
     ]
 }
 }
