@@ -9,76 +9,76 @@
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "cse15-iiith.vlabs.ac.in",
-  "introduction": "Welcome to the Digital Logic Design Lab. Here you can make basic combinational and sequential digital circuits of your choice and simulate them.</br></br>Please note:</br>The simulations of this lab have some of the following software dependencies - </br>Browsers - Firefox 50 and lower versions, Internet Explorer</br>Software - Adobe Flash Plugin, Java1.7, Java3D-1.5.2, and IcedTea Plugin.</br></br>We recommend you to use our customized Virtual Box for the smooth running of these simulations.</br></br>Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre-installed software dependencies (Java 1.7, Java3D-1.5.2, IcedTea Plugin, and Adobe Flash Plugin). Please follow the <a href='https://vlead.vlabs.ac.in/development/#virtual-box'>link</a> to download, install VirtualBox for easy use of Virtual Labs.",
+  "introduction": "The Digital Logic Design Lab offers hands-on experience in building and analyzing digital circuits, from basic combinational logic to complex sequential systems. It strengthens foundational skills essential for digital computation and system design",
   "experiments": [
     {
       "name": "Adder Circuit",
       "short-name": "adder-circuit",
       "repo": "https://github.com/virtual-labs/exp-adder-circuit-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Multiplexer",
       "short-name": "multiplexer",
       "repo": "https://github.com/virtual-labs/exp-multiplexer-iiith",
-      "tag": "v1.0.7",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "Decoder with 7-Segment Display",
       "short-name": "7-segment-display",
       "repo": "https://github.com/virtual-labs/exp-7-segment-display-iiith",
-      "tag": "v1.0.7",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "ALU with function",
       "short-name": "alu",
       "repo": "https://github.com/virtual-labs/exp-alu-iiith",
-      "tag": "v2.0.6",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Comparator",
       "short-name": "comparator",
       "repo": "https://github.com/virtual-labs/exp-comparator-iiith",
-      "tag": "v1.0.6",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "Latch and Flip Flops",
       "short-name": "latch-and-flip-flops",
       "repo": "https://github.com/virtual-labs/exp-latch-and-flip-flops-iiith",
-      "tag": "v1.0.7",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "Registers",
       "short-name": "registers",
       "repo": "https://github.com/virtual-labs/exp-registers-iiith",
-      "tag": "v1.0.7",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "Counters",
       "short-name": "counters",
       "repo": "https://github.com/virtual-labs/exp-counters-iiith",
-      "tag": "v2.0.7",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "Multipliers",
       "short-name": "multipliers",
       "repo": "https://github.com/virtual-labs/exp-multipliers-iiith",
-      "tag": "v1.0.7",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "State Diagrams",
       "short-name": "state-diagrams",
       "repo": "https://github.com/virtual-labs/exp-state-diagrams-iiith",
-      "tag": "v2.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     }
   ],
@@ -88,7 +88,7 @@
     ],
     "PG": ["Postgraduate students and Research scholars"]
   },
-  "objective": "The digital logic design is a system that uses simple numerical values to produce input and output operations.",
+  "objective": "<ul><li>Designing Core Circuits: Build and analyze arithmetic units, data selectors, and storage elements.</li><li>Mastering Sequential Logic: Implement flip-flops, counters, and finite state machines for dynamic systems.<li><li>Bridging Theory & Practice: Apply digital design principles to real-world problem-solving and system development.</li></ul>",
   "courseAlignment": {
     "description": "NPTEL courses on Digital Circuits.",
     "universities": [
