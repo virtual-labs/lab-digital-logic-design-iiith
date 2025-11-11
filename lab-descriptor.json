@@ -2,11 +2,11 @@
   "broadArea": {
     "name": "Computer Science and Engineering",
     "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
-    "code": "CSE"
+    "code": "ECE"
   },
   "lab": "Digital Logic Design",
   "lab_display_name": "Digital Logic Design",
-  "phase": 2,
+  "phase": "3-ext",
   "collegeName": "IIITH",
   "baseUrl": "cse15-iiith.vlabs.ac.in",
   "introduction": "The Digital Logic Design Lab offers hands-on experience in building and analyzing digital circuits, from basic combinational logic to complex sequential systems. It strengthens foundational skills essential for digital computation and system design",
