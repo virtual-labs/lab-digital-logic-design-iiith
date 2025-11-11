@@ -88,7 +88,7 @@
     ],
     "PG": ["Postgraduate students and Research scholars"]
   },
-  "objective": "<ul><li>Designing Core Circuits: Build and analyze arithmetic units, data selectors, and storage elements.</li><li>Mastering Sequential Logic: Implement flip-flops, counters, and finite state machines for dynamic systems.<li><li>Bridging Theory & Practice: Apply digital design principles to real-world problem-solving and system development.</li></ul>",
+  "objective": "<ul><li>Designing Core Circuits: Build and analyze arithmetic units, data selectors, and storage elements.</li><li>Mastering Sequential Logic: Implement flip-flops, counters, and finite state machines for dynamic systems.</li><li>Bridging Theory & Practice: Apply digital design principles to real-world problem-solving and system development.</li></ul>",
   "courseAlignment": {
     "description": "Digital Logic Design is a professional core course in Electronics and Communication Engineering",
     "universities": [
